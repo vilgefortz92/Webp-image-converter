@@ -8,3 +8,4 @@ This software is used for converting jpg/png images into webp images. It has GUI
 
 
 Software is free to use and free to distribute. Please don't forget to mention the author (me). 
+You can check my Patreon page: https://www.patreon.com/FreeSoftwareSolutions
