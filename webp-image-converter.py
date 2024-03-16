@@ -1,6 +1,6 @@
-# Author: Aleksandar Arsić
+# Author: Vilgefortz
 # Software description: Converts images to webp extension
-# Contact: arsic.aleksandar1992@gmail.com
+# Contact: vilgefortzsrb@gmail.com
 
 import tkinter as tk
 from tkinter import filedialog, ttk, messagebox
